@@ -1,0 +1,8 @@
+matplotlib
+geopandas
+fiona
+folium
+rasterio
+xarray
+netcdf4
+rioxarray

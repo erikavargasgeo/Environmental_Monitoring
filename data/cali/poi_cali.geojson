@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puente de Juanchito"
+        },
+        "geometry": {
+          "coordinates": [
+            -76.47586850367466,
+            3.4504647043669223
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+    ]
+  }
